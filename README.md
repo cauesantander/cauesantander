@@ -1,14 +1,14 @@
 <h1 align="center">Olá 👋, eu sou o Cauê</h1>
 
 <h3 align="center">
-Backend Developer • C# • .NET
+Backend Developer • C# • .NET • Ruby
 </h3>
 
 ## 🛠 Tecnologias
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,docker,postgres,mysql,redis,rabbitmq,linux,github" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,docker,postgres,mysql,redis,rabbitmq,linux,ruby,github" />
 
 </p>
 
