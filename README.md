@@ -43,7 +43,7 @@ Backend Developer • C# • .NET • Ruby
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=CaueSantader&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=CaueSantander&theme=tokyonight"/>
 
 </p>
 
