@@ -36,7 +36,11 @@ Backend Developer • C# • .NET • Ruby
   
   <a href="https://github.com/CaueSantander/pedidos-api">
     <img src="https://github-readme-stats-nine-rho-51.vercel.app/api/pin/?username=CaueSantander&repo=pedidos-api&theme=tokyonight&hide_border=true&v=2"/>
+  </a>  
+    <a href="https://github.com/CaueSantander/Rails-Blog">
+    <img src="https://github-readme-stats-nine-rho-51.vercel.app/api/pin/?username=CaueSantander&repo=Rails-Blog&theme=tokyonight&hide_border=true&v=2"/>
   </a>
+  
 </p>
 
 ## 🔥 Streak
