@@ -27,15 +27,15 @@ Backend Developer • C# • .NET • Ruby
 
 <p align="center">
   <a href="https://github.com/CaueSantander/API.Bank">
-    <img src="https://github-readme-stats-nine-rho-51.vercel.app/api/pin/?username=CaueSantander&repo=API.Bank&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats-nine-rho-51.vercel.app/api/pin/?username=CaueSantander&repo=API.Bank&theme=tokyonight&hide_border=true&v=2"/>
   </a>
 
   <a href="https://github.com/CaueSantander/Digital-API">
-    <img src="https://github-readme-stats-nine-rho-51.vercel.app/api/pin/?username=CaueSantander&repo=Digital-API&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats-nine-rho-51.vercel.app/api/pin/?username=CaueSantander&repo=Digital-API&theme=tokyonight&hide_border=true&v=2"/>
   </a>
   
   <a href="https://github.com/CaueSantander/pedidos-api">
-    <img src="https://github-readme-stats-nine-rho-51.vercel.app/api/pin/?username=CaueSantander&repo=pedidos-api&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats-nine-rho-51.vercel.app/api/pin/?username=CaueSantander&repo=pedidos-api&theme=tokyonight&hide_border=true&v=2"/>
   </a>
 </p>
 
